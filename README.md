@@ -1,23 +1,15 @@
 # Challenge-12-Employee-Tracker
+https://app.castify.com/view/ef96742e-2eeb-4842-95e8-9dc6b43090ad
 
 ## Description
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This assignment allows a user to view information as well as add or update it. They can look at who the employees are, all of the departments, and the roles in a company. It will help if a new employee is added or if they get a new position and if a new department is created. I learned how to create information that will be stored in a database.
 
 ## Installation
 
 N/A
 
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png))
+Clone the repo into your terminal and type npm i in the root of the directory. Run node index.js and use the arrows to choose which option you want.
 
 # Credits
 
